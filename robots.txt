@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /subscription-success.html
+Sitemap: http://baranka.life/sitemap.xml
+Host: https://baranka.life

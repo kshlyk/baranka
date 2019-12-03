@@ -1,0 +1,10 @@
+@import url(bootstrap.min.css);
+@import url(fotorama.css);
+aside .avatar {
+  display: block;
+  width: 150px;
+  height: 150px;
+  border-radius: 75px; }
+
+.container.main {
+  overflow: hidden; }
