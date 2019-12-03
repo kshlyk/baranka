@@ -1,79 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://baranka.life/index.html</loc>
+    <loc>https://kshlyk.github.io/baranka/index.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/subscription-success.html</loc>
+    <loc>https://kshlyk.github.io/baranka/subscription-success.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/tools/hungary-visa.html</loc>
+    <loc>https://kshlyk.github.io/baranka/tools/hungary-visa.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/2012/europe-shopping.html</loc>
+    <loc>https://kshlyk.github.io/baranka/2012/europe-shopping.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/2012/europe-by-car.html</loc>
+    <loc>https://kshlyk.github.io/baranka/2012/europe-by-car.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/2012/berlin.html</loc>
+    <loc>https://kshlyk.github.io/baranka/2012/berlin.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/2012/booking-review.html</loc>
+    <loc>https://kshlyk.github.io/baranka/2012/booking-review.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/2012/drezden.html</loc>
+    <loc>https://kshlyk.github.io/baranka/2012/drezden.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/2017/budapest.html</loc>
+    <loc>https://kshlyk.github.io/baranka/tags/europe.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/tags/europe.html</loc>
+    <loc>https://kshlyk.github.io/baranka/tags/shopping.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/tags/hungary.html</loc>
+    <loc>https://kshlyk.github.io/baranka/tags/germany.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/tags/budapest.html</loc>
+    <loc>https://kshlyk.github.io/baranka/tags/czech-republic.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/tags/shopping.html</loc>
+    <loc>https://kshlyk.github.io/baranka/tags/booking-com.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/tags/germany.html</loc>
+    <loc>https://kshlyk.github.io/baranka/tags/austria.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://baranka.life/tags/czech-republic.html</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://baranka.life/tags/booking-com.html</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://baranka.life/tags/austria.html</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://baranka.life/2017.html</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://baranka.life/2012.html</loc>
+    <loc>https://kshlyk.github.io/baranka/2012.html</loc>
     <priority>0.7</priority>
   </url>
 </urlset>
